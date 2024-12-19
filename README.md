@@ -121,6 +121,12 @@ This repository contains a dynamic and responsive chat interface built with Reac
 ## Screenshots
 Include screenshots or a link to a live demo here.
 
+![image](https://github.com/user-attachments/assets/a5e2a25e-55d4-4842-a254-290a7575a28e)
+
+![image](https://github.com/user-attachments/assets/79ee44f8-fce3-48ee-9b5b-aaa370fb435e)
+
+
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
