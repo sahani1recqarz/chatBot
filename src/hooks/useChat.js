@@ -85,7 +85,7 @@ const useChat = () => {
       useEffect(() => {
             saveChatHistory(messages); // Ensure messages are saved to local storage
       }, [messages]);
-
+      // hell 
       return {
             messages,
             isTyping,
