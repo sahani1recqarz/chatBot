@@ -93,6 +93,7 @@ const ChatInterface = () => {
         <p>We're thrilled to have you here! 😊 Whether you're looking for help, information, or just want to chat, we're ready to assist you.</p>
         <p>How can I help you today? Feel free to ask anything!</p>
       </div>
+
       {/* Chat Messages */}
       <div
         ref={chatRef}
